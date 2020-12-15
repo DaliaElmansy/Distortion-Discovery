@@ -1,0 +1,14 @@
+nShuffles	10
+MinI	0.7
+MinICorr	0.9
+MinMis	5
+FocusOnFPFN	FP
+MaxMisRatio	0.25
+MaxMisTotal	1.75
+MinPrecision	0.9
+MinPredictionRate	0.3
+MinAUC	0.5
+TopPredictionRate_Dist	0.977
+TopAUC_Dist	0.912
+TopPredictionRate_NoDist	0.989
+TopAUC_NoDist	0.951
