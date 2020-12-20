@@ -1,5 +1,5 @@
 ========================================================================
-    WIN32 APPLICATION : Distortion Project Overview
+    WIN32 APPLICATION : Distortion Discovery Project Overview
 ========================================================================
 
 AppWizard has created this Distortion application for you.
